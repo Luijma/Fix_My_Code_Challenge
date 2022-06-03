@@ -24,6 +24,7 @@ class Square():
         """Returns the string representation of a Square object"""
         return "{}/{}".format(self.width, self.height)
 
+
 if __name__ == "__main__":
 
     s = Square(width=12, height=9)
