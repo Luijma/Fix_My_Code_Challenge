@@ -2,7 +2,7 @@
 """This module defines the class Square"""
 
 
-class Square():
+class Square:
     """Class Square has width and height"""
     width = 0
     height = 0
